@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+KjKi8liqKgHsYVBRLj/gJmDEIM9694xQY+Z70EO78EZ/YROJt3ozkRQh8PiqmvGzYsqZLpi6USwZ1zPbupyw==",
+  "success": true,
+  "projectFilePath": "C:\\PROGRAMMING\\c#\\telegram\\bots\\tic-tac-toe\\tic-tac-toe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimal\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\dimal\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
